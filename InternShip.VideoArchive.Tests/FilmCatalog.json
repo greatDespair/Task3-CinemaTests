@@ -1,0 +1,37 @@
+﻿{
+	"VideoOptions": [
+		{
+			"Id": 1,
+			"FilmName": "TestName",
+			"FilmType": "Serial",
+			"FilmGenre": "TestGenre",
+			"NumberOfSeries": 7,
+			"BoxOffice": {
+				"Cash": "1000000",
+				"Currency": "USD"
+			},
+			"ReleaseDate": "01.01.2022",
+			"Director": {
+				"FirstName": "TestDirectorName",
+				"Surname": "TestDirectorSurname",
+				"BirthDate": "01.01.1990"
+			}
+		},
+		{
+			"FilmName": "TestName 2",
+			"FilmType": "Movie",
+			"FilmGenre": "TestGenre 2",
+			"NumberOfSeries": 1,
+			"BoxOffice": {
+				"Cashe": "50000000",
+				"Currency": "RUB"
+			},
+      "ReleaseDate": "14.14.2021",
+			"Director": {
+				"FirstName": "TestDirectorName 2",
+				"Surname": "TestDirectorSurname 2",
+				"BirthDate": "05.05.1990"
+			}
+		}
+	]
+}
